@@ -16,7 +16,7 @@ Junior Data Analyst⚡ <br>Junior Data Scientist⚡ <br>Junior AI/Ml/DL Engineer
 ![](https://github-profile-trophy.vercel.app/?username=defrifegapratama002&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=defrifegapratama002&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
