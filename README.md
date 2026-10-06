@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Data Analyst⚡ <br>Junior Data Scientist⚡ <br>Junior AI/Ml/DL Engineer⚡ 
+Junior Data Analyst⚡ <br>Junior Data Scientist⚡ <br>Junior AI/Ml/DL Engineer⚡ <br>Junior Sofware Dev
 
 
 ## 🌐 Socials:
